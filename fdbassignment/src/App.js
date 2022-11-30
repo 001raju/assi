@@ -17,13 +17,14 @@ function App() {
   </p>
   <aside>
     <p>
-      Quick warning: <strong>this recipe is <em>spicy</em></strong
+      error: <strong>this recipe is <em>spicy</em></strong
       >. <a id="blackHideUnderlineOnHOver" href="google.com">Click here</a> for an alternative recipe with less heat.
     </p>
   </aside>
 </article>
 
       </div>
+      
   );
 }
 
